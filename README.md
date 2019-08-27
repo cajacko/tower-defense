@@ -8,6 +8,7 @@ A board game inspired by tower defense video games. There are others out this, t
   - [Rules](#rules)
   - [References](#references)
     - [Bad Guys](#bad-guys)
+    - [Purchases](#purchases)
   - [Scenarios](#scenarios)
     - [Scenario 1](#scenario-1)
 
@@ -72,17 +73,17 @@ The game happens in the following turns
       - Some scenarios may override/add what's in the purchases table
       - When you buy a tower it starts on level 1 (1 pip showing), you can put the tower dice on any spare tower space
       - When you buy a tower upgrade, rotate the dice to show the level it's at
-    -  Activate towers
-      - Each tower can fire once in an area that it's arrows point to. (Unless the upgrade ability says otherwise)
-      - When a tower fires, roll the number of dice equal to the towers level. Each dice can target 1 specific bad guy. To kill a bad guy you must roll the same or higher than the bad guys health value. If you succeed, discard that bad guy and add gold equal to the bad guys Reward Value. If you miss, bad luck.
-        - Bosses are handled slightly differently. See the bosses section.
+    - Activate towers
+    - Each tower can fire once in an area that it's arrows point to. (Unless the upgrade ability says otherwise)
+    - When a tower fires, roll the number of dice equal to the towers level. Each dice can target 1 specific bad guy. To kill a bad guy you must roll the same or higher than the bad guys health value. If you succeed, discard that bad guy and add gold equal to the bad guys Reward Value. If you miss, bad luck.
+      - Bosses are handled slightly differently. See the bosses section.
     - Activate hero's
       - Each hero can do 2 actions
         - Move up to 2 spaces
         - Attack
-          - Pick 1 bad guy and roll 2 dice to attack them. Resolving in the same way as towers. 
+          - Pick 1 bad guy and roll 2 dice to attack them. Resolving in the same way as towers.
   - Increase phase dice
-    - If the phase dice is on the last round of that phase (according to the scenario) then move it to the next phase on pip 1.
+    - If the phase dice is on the last round of that phase (according to the scenario) then you must wait until all bad guys have been defeated or discarded then move the die to the next phase on pip 1.
       - If the scenario has no more rounds, you can leave the dice as it is. No more spawns will be happening.
 
 ## References
@@ -95,8 +96,6 @@ The game happens in the following turns
 | Fast   | 1            | 2           | 2            | 2            |                                                              |
 | Heavy  | 2            | 1           | 5            | 3            |                                                              |
 | Boss   | 5            | 1           | 5            | 10           | Must be hit successfully 3 times (Use another dice to track) |
-
-
 
 ### Purchases
 
