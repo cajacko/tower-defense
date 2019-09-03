@@ -27,13 +27,13 @@ _How else are people solving this problem right now?_
 
 _How are you solving the problems? Add a link to the latest place to find the current solution_
 
-A co-operative tower defense game for at least 2 players, with a bunch of different maps/scenarios and a legacy component to it. To make it feel more like a story.
+A co-operative tower defense board game for at least 2 players, with a bunch of different maps/scenarios and a legacy component to it. To make it feel more like a story.
 
 ### High Level Concept
 
 _Describe the solution in a few words that anyone could understand_
 
-A co-operative tower defense game
+A co-operative tower defense board game
 
 ### Unique Value Proposition
 

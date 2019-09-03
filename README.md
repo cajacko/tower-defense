@@ -1,8 +1,8 @@
 # Tower Defense Board Game
 
-![alt text](assets/v2-narrow.jpg "Tower Defense prototype v2")
+![Tower Defense prototype v2](assets/v2-narrow.jpg "Tower Defense prototype v2")
 
-A board game inspired by tower defense video games. Others do exist but this one is focussed on co-operative play.
+A co-operative tower defense board game for at least 2 players, with a bunch of different maps/scenarios and a legacy component to it. To make it feel more like a story.
 
 ## Table of Contents
 
